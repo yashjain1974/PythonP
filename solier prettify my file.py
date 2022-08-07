@@ -18,7 +18,7 @@ import os
 #         if file.endswith(format):       #We also use 'os.path.splitext(file)[1]==format:'
 #             os.rename(f'{file}',f'{i}{format}')
 #             i+=1
-# soldier(r'C:\Users\yash.JAIN-PC\Desktop\New folder',r'C:\Users\yash.JAIN-PC\Desktop\New folder',r'.jpg')
+# soldier(r'C:\Users\yash.JAIN-PC\Desktop\New fsh.JAIN-PC\Desktop\New folder',r'.jpg')
 def Change(path,format):
    os.chdir(path)
    i=1
