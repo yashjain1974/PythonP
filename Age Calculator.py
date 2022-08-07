@@ -1,4 +1,4 @@
-print("/-------------------Age/DOB Calculator------------------/")
+print("/----------------Age/DOB Calculator-------------/")
 a=int(input("Enter 1 or 2\n"
               "1 By Age\n"
               "2 By Date of birth\n"))
